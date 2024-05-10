@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snigdha Chowdhury</h1>
 <h3 align="center">A passionate web developer</h3>
+<br>
+<p>I'm a Font End Web developer.I have a passion for learning and sharning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.  </p>
 
 - 🔭 I’m currently working on **youtube**
 
