@@ -1,10 +1,6 @@
 ### Hi there 👋I'm Snigdha chowdhury
 ###### Web deveploper  👋
 
-**snigdhachowdhury/snigdhachowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -🔭 I’m currently working on youtube
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on github
