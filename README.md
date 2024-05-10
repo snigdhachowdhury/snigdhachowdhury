@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Snigdha chowdhury
+### Hi there 👋,I'm Snigdha chowdhury
 #### I am Web developer
 I'm a Font End Web developer.I have a passion for learning and sharning and sharing my knowledge with others as publicly as possible.I love to solve real-world problems.
 
